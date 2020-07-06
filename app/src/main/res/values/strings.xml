@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MVVM-Kotlin</string>
+
+    <string name="retry">Retry</string>
+    <string name="unknown_error">Unknown Error</string>
+    <string name="a11y_user_photo">Foto usuario</string>
+    <string name="a11y_user_name">Nombre usuario</string>
+    <string name="search_hint">Buscar repositorios</string>
+    <string name="repo_full_name"><b>%s</b>/%s</string>
+    <string name="empty_search_result">No hay resultados para <b>%s</b></string>
+    <string name="a11y_contributor_avatar">Avatar contribuidor</string>
+
+</resources>
