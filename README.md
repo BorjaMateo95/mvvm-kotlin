@@ -10,3 +10,5 @@ Android project developed under the architectures recommended by the google.
 - Jetpack
 - Repository
 - ViewModel
+
+![Screenshot](and.PNG)
